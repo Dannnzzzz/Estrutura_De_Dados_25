@@ -1,0 +1,15 @@
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.exe
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.deps.json
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.runtimeconfig.json
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.dll
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.pdb
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.AssemblyInfoInputs.cache
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.AssemblyInfo.cs
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.sourcelink.json
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.dll
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\refint\Jogo_da_Velha.dll
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.pdb
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.genruntimeconfig.cache
+C:\Users\Daniel Gomig\Desktop\EstruturaDeDados25\Jogo_da_Velha\obj\Debug\net9.0\ref\Jogo_da_Velha.dll
