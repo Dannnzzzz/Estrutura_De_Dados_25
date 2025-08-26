@@ -1,0 +1,14 @@
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\bin\Debug\net9.0\Recursao 2.exe
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\bin\Debug\net9.0\Recursao 2.deps.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\bin\Debug\net9.0\Recursao 2.runtimeconfig.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\bin\Debug\net9.0\Recursao 2.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\bin\Debug\net9.0\Recursao 2.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.AssemblyInfoInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.AssemblyInfo.cs
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.csproj.CoreCompileInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\refint\Recursao 2.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\Recursao 2.genruntimeconfig.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursao 2\obj\Debug\net9.0\ref\Recursao 2.dll

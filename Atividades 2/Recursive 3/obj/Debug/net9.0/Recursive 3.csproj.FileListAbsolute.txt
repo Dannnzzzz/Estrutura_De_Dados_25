@@ -1,0 +1,14 @@
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\bin\Debug\net9.0\Recursive 3.exe
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\bin\Debug\net9.0\Recursive 3.deps.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\bin\Debug\net9.0\Recursive 3.runtimeconfig.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\bin\Debug\net9.0\Recursive 3.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\bin\Debug\net9.0\Recursive 3.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.AssemblyInfoInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.AssemblyInfo.cs
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.csproj.CoreCompileInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\refint\Recursive 3.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\Recursive 3.genruntimeconfig.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Recursive 3\obj\Debug\net9.0\ref\Recursive 3.dll

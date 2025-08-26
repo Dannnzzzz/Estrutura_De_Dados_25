@@ -1,0 +1,14 @@
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\bin\Debug\net9.0\Atividade Recursao.exe
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\bin\Debug\net9.0\Atividade Recursao.deps.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\bin\Debug\net9.0\Atividade Recursao.runtimeconfig.json
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\bin\Debug\net9.0\Atividade Recursao.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\bin\Debug\net9.0\Atividade Recursao.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.AssemblyInfoInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.AssemblyInfo.cs
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.csproj.CoreCompileInputs.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\refint\Atividade Recursao.dll
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.pdb
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\Atividade Recursao.genruntimeconfig.cache
+C:\Users\449696\Desktop\EstruturaDeDados25-main\Atividades\Atividade Recursao\obj\Debug\net9.0\ref\Atividade Recursao.dll
