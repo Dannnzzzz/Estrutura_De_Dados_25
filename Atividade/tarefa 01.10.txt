@@ -1,0 +1,20 @@
+1- Aplique o BubbleSort para ordenar um vetor de String (OK)	
+
+2- E se quiséssemos que este algoritmo ordene de forma decrescente, como alterar? Faça alguns testes. (OK)
+
+3- Faca a leitura e um resumo do algoritmo InsertioSort.
+
+
+
+RESUMO:
+
+
+Insertion Sort (Ordenação por Inserção)
+
+O Insertion Sort é um algoritmo simples usado para ordenar vetores (arrays) unidimensionais. Assim como o Selection Sort, ele divide o array em duas partes: ordenada e não ordenada.
+
+Inicialmente, apenas o primeiro elemento está na parte ordenada. A cada iteração, o algoritmo pega o primeiro elemento da parte não ordenada e o insere no lugar correto dentro da parte ordenada, mantendo a ordem crescente (ou decrescente, se desejado).
+
+Esse processo se repete até que todos os elementos estejam na parte ordenada, ou seja, até que a parte não ordenada fique vazia.
+
+
