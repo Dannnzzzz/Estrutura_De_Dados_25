@@ -1,0 +1,14 @@
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\bin\Debug\net10.0\Bubble.exe
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\bin\Debug\net10.0\Bubble.deps.json
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\bin\Debug\net10.0\Bubble.runtimeconfig.json
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\bin\Debug\net10.0\Bubble.dll
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\bin\Debug\net10.0\Bubble.pdb
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.AssemblyInfoInputs.cache
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.AssemblyInfo.cs
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.dll
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\refint\Bubble.dll
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.pdb
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\Bubble.genruntimeconfig.cache
+C:\Users\451431\Desktop\estrutura_de_dados-main\estrutura_de_dados-main\Atividades\Bubble\obj\Debug\net10.0\ref\Bubble.dll
