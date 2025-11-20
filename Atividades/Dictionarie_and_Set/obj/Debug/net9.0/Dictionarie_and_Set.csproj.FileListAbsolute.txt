@@ -1,0 +1,14 @@
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\bin\Debug\net9.0\Dictionarie_and_Set.exe
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\bin\Debug\net9.0\Dictionarie_and_Set.deps.json
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\bin\Debug\net9.0\Dictionarie_and_Set.runtimeconfig.json
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\bin\Debug\net9.0\Dictionarie_and_Set.dll
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\bin\Debug\net9.0\Dictionarie_and_Set.pdb
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.AssemblyInfoInputs.cache
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.AssemblyInfo.cs
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.csproj.CoreCompileInputs.cache
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.dll
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\refint\Dictionarie_and_Set.dll
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.pdb
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\Dictionarie_and_Set.genruntimeconfig.cache
+C:\Users\449696\Desktop\Estrutura_De_Dados_25-main\Atividades\Dictionarie_and_Set\obj\Debug\net9.0\ref\Dictionarie_and_Set.dll
