@@ -1,0 +1,37 @@
+BD/DB é uma coleção logicamente coerente dos dados com determinada significação intrínseca, cuja a finalidade é o armazenamento
+organizado de informações, otimizando sistemas, facilitando entradas, alterações, processamento e consulta de dados.
+Para sua criação e manutenção utiliza-se o SGBD.
+
+O conjunto formado por DB + aplicações que o manipular é chamado de BANCO DE DADOS.
+
+
+Principais características do SGBD:
+
+-INTEGRIDADE: Impedir que um determinado código ou chave de uma tabela não tenha correspondência em outra.
+Ex: O código de uma disciplina na tabela "HISTÓRICO ESCOLAR"  sem sua descrição na tabela "Disciplina".
+
+
+
+-Restrição ou Consistência: Armazenamento de informações centralizadas, mas com acesso descentralizado. A inconsistência ocorre quando um mesmo campo ter valores diferentes em SISTEMAS DIFERENTES. Quando o armazenamento é centralizado este problema não ocorre.
+
+SEGURANÇA E PRIVACIDADE:
+
+Define para cada usuário o nível de acesso a ele concedido (leitura, leitura e gravação ou s/ acesso), a uma tabela ou campo específico 
+
+RESTAURAÇÃO ou REORGANIZAÇÃO:
+
+Capacidade de se recuperar de falhas de hardware e software por meio de arquivos de backup ou outros recursos.
+
+
+PESQUISA:
+DIFERENÇAS ENTRE OS MODELOS DE BD:
+
+HIERARQUICO
+MODELO DE REDE
+MODELO RELACIONAR
+ORIENTADO A OBJETOS
+NAO RETRACIONAL
+
+definição
+características
+doferenças
