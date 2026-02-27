@@ -1,0 +1,57 @@
+DATA WAREHOUSE
+
+ARMAZEM DE DADOS MODELO DIMENSIONAL
+MODELO DIMENSIONAL
+SISTEMA PROJETADO PARA ANÁLISE DE COMPORTAMENTO
+E TENDENCIAS DE NEGOCIO.
+PARTEM DE IMPLANTAÇÃO
+PARA A NECESSIDADE DO USUARIO.
+
+Idealizado por INNOR/KIMBALL
+A modelagem dimensional é uma 
+técnica de projeto lógico que busca
+apresentar dados em uma estrutura padronizada e intuitiva 
+que permite alto desempenho, evitando
+técnicas de normalização. Especificamente
+utilizada para suportar processamento ANALítico OLAP- Online Analitic Process.
+
+
+O tipo de negócio pode ser representado por um "cubo de dados"
+
+-Células do cubo = valores
+-Arestas do cubo = Dimensões do Dado
+
+É possível representar muitas dimensões, em geral de 4 a 15 modelos com + dimensões
+podem ser combinados.
+
+
+PROJETO DE BD:
+
+DADOS: Parte mais estável. Após a sua definição costuma sofrer pouca atualização.
+
+Processos: Parte mais dinâmica. Os processos realizados sobre os dados variam com
+a necessidade.
+
+FASES DO PROJETO:
+
+ANAL. DE REQUISITOS:
+Coleta informações sobre os dados.
+
+Projeto conceitual: Procura capturar formalmente os requisitos de informações de BD. Define-se os principais
+relacionamentos sem se preocupar com restrições. Descreve informa. contidas em uma realidade.
+
+Projeto Lógico: Definem as estruturas de dados que implementam os requisitos identificados na model. Conceitual. 
+Resulta em um esquema lógico sob a ótica de uma abordagem (lógico, relacional, rede etc).
+
+
+Projeto físico: Define parâmetros físicos de acesso. Tipos de dados, tamanho de campos de concentração, índices, locais de gravação, etc. 
+
+
+
+
+
+
+
+
+
+
